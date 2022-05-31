@@ -1,7 +1,7 @@
 '''
 Bubble sort
  
-Time complexity: O(N^2)
+Time complexity: O(N^2).
  
 Bubble sort "bubbles" up the array by comparing each
 array value with the one to the right of it.
